@@ -1,0 +1,5 @@
+- Python 3.7 or higher  
+- Tkinter (comes built-in with Python)
+
+If Tkinter is missing, install it using:
+pip install tk
